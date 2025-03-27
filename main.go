@@ -14,7 +14,7 @@ import (
 func main() {
 	app := &cli.App{
 		Name:  "Config X",
-		Usage: "watch config from config center",
+		Usage: "watch config from config center\nhttps://github.com/dongfg/conf.x",
 		Flags: []cli.Flag{
 			&cli.StringFlag{
 				Name:     "config",

@@ -1,3 +1,5 @@
 .idea
-/*.yaml
+/*.local.yaml
 *.json
+dist/
+*.exe
